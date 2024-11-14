@@ -103,8 +103,10 @@ return 0;
 
 ## OUTPUT:
 filecopy.o
+
 ![image](https://github.com/user-attachments/assets/7b8fa97b-2a3b-4810-9cf4-57533a92d5d6)
 lock.o
+
 ![image](https://github.com/user-attachments/assets/c1fd15eb-38e4-41e5-9f45-4c0f6f3b7775)
 
 
